@@ -1,0 +1,10 @@
+[{
+    "name":"vishnu prasath",
+    "contact":["1234567890","eeevishnuprasath@gmail.com","prasath@1033"],
+    "education":[{"degree":"B.E",
+        "instituttion":"anna university",
+        "year":2025
+    }],
+    "skills":["javascript","node","java","HTML","css"]
+
+}]
