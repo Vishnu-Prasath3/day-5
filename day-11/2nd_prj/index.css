@@ -1,13 +1,15 @@
 body{
     height:90vh;
     margin:10px;
-
 }
 
-.search{
-    height:50px;
-    width:400px;
-    border:5px solid black;
-    margin: auto;
-    margin-top: 50px;
+.search input{
+
+    margin: 100px 80px;
+    width: 30%;
+}
+.search input:hover{
+    border: 3px solid black;
+     width: 40%;
+
 }
