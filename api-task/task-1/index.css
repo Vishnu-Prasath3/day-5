@@ -38,7 +38,9 @@ input{
 background-color: aqua;
 }
 
+
 .table-data{
+<<<<<<< Updated upstream
     position: relative;
     width:600px;
     height:300p;
@@ -52,3 +54,9 @@ table,th,td{
     border:3px solid  red;
     border-collapse: collapse;   
 }
+=======
+   width:300px;
+   height:300p;
+}
+
+>>>>>>> Stashed changes
