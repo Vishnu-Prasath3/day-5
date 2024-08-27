@@ -1,6 +1,6 @@
 *{
     background-color: blueviolet;
-    padding: 0;
+    /* padding: 0; */
 }
 /* enter an number */
 #head-id{
@@ -25,7 +25,7 @@ input{
     background-color:rgb(255, 196, 252);
 }
 
-.submit-btn{
+.submit-btn{    
     width:100PX;
     height: 60PX;
     background-color:rgb(255, 196, 252);
@@ -39,6 +39,16 @@ background-color: aqua;
 }
 
 .table-data{
-   width:300px;
-   height:300p;
+    position: relative;
+    width:600px;
+    height:300p;
+
+}
+table{
+
+    
+}
+table,th,td{
+    border:3px solid  red;
+    border-collapse: collapse;   
 }
