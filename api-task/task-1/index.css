@@ -1,0 +1,44 @@
+*{
+    background-color: blueviolet;
+    padding: 0;
+}
+/* enter an number */
+#head-id{
+    font-size:8em;
+}
+/* root id for all elements */
+#root{
+display: flex;
+flex-direction: column;
+align-items: center;
+color: aquamarine;
+}
+ 
+input{
+    width: 500px;
+    height: 60px;
+    border-color: aliceblue;
+    color: white;
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color:rgb(255, 196, 252);
+}
+
+.submit-btn{
+    width:100PX;
+    height: 60PX;
+    background-color:rgb(255, 196, 252);
+    color:black;
+    border-radius: 5%;
+    font-size: larger;
+}
+
+.submit-btn:hover:active{
+background-color: aqua;
+}
+
+.table-data{
+   width:300px;
+   height:300p;
+}
