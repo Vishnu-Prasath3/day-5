@@ -6,7 +6,7 @@ let url="https://api.thecatapi.com/v1/images/search?limit=10"
 async function catimg(){
     let response=await fetch(url);
     let result=await response.json();
-    let res=result.map(e=>e.url)
+    let res=result.map(e=>e.url)using
    for(let i=0;i<11;i++)
 {
 
